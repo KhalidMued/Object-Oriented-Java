@@ -6,5 +6,5 @@ Also, Setter & Getters, + the specific Methid ( display )
 Also, Withdraw & Deposit Methods 
 + Showing the differences between Private & Public when assigning an attribute
 
-Note: if you needed to use an attribute in the main method but with a new variable you created. This attribute needs to be private
+Note: if you needed to use an attribute in the main method but with a new variable you created. This attribute needs to be public
 otherwise it won't be visible.
